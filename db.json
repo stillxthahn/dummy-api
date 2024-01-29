@@ -3,7 +3,7 @@
     {
       "companyName": "Công ty MMD",
       "phone": "0935324294",
-      "email": "contact@abc.com",
+      "email": "example01@test.com",
       "password": "123456",
       "token": "pwYhBgkNOANIjtKI7WHz",
       "id": 1,
@@ -17,7 +17,7 @@
     {
       "companyName": "Công ty CORRENT",
       "password": "123456",
-      "email": "contact@abcd.com",
+      "email": "example02@test.com",
       "phone": "0973455645",
       "token": "JqHrujb2R9HeyJC0Txj9",
       "id": 2,
@@ -30,7 +30,7 @@
     },
     {
       "companyName": "Công ty MOONY",
-      "email": "contact@abcde.com",
+      "email": "example03@test.com",
       "phone": "0345345345",
       "password": "123456",
       "token": "hlzlCzrzOXLw8aftjYj3",
